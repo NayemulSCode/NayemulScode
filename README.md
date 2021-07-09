@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**NayemulSCode/NayemulScode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, my name is Nayemul
+#### I'm MERN Stack Developer
+![I'm MERN Stack Developer](https://media-exp1.licdn.com/dms/image/C5616AQF5wOjomrWQ-w/profile-displaybackgroundimage-shrink_350_1400/0/1621459986782?e=1631145600&v=beta&t=vUZPVgm7tnMQFID5KACGnD1VhgDfva_9RpM5QI-osNc)
 
-Here are some ideas to get you started:
+A passionate web developer. Currently learning and developing in MERN Stack. I'm a knowledge seeker & I love to learn new Technologies.Excited to be at the development phase of my new career as a web developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
