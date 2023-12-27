@@ -1,10 +1,12 @@
-### Hi there 👋, I'm Nayemul
-![I'm Javascript(React.js) Developer](https://scontent.fcgp17-1.fna.fbcdn.net/v/t1.6435-9/213103932_1451315015221941_1688288856561722562_n.png?_nc_cat=106&ccb=1-3&_nc_sid=e3f864&_nc_ohc=IeUYHjfrCm0AX9msVVc&tn=U1DnhggaVw1HAOtn&_nc_ht=scontent.fcgp17-1.fna&oh=80c9ce598439904832cfffe4aadfe3d6&oe=60EFFEF1)
+### Hi there 👋, I'm Nayemul Saaheb(DEV. Saheb)
+![I'm a Software Developer]
 
 A passionate web developer. I'm a knowledge seeker & I love to learn new technologies. Excited to be at the development phase of my new career as a web developer.
 
-- 🌱 I’m currently learning Rreact.js, Node.js and developing in MERN Stack. 
-- 👯 I’m looking to collaborate on developing team for increase my development knowledge. 
+- 🌱 I’m currently Working on Next.js,
+- 🌱 Expertise Redux, RTK Query, React Query, GraphQL, REST API's, React Hook Form and so one
+- 🌱 Familiar with MERN Stack Development. 
+- 👯 I’m looking to collaborate on developing a team to increase my development knowledge at Open Source Project. 
 
 ## Connect with me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nayemulscode)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/nayemulscode)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nayemuldev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/nayemulhasan.shahab)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/m_n_h_saheb/)  
