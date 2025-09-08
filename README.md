@@ -4,7 +4,7 @@ I'm a Software Developer
 A passionate Software Developer. I'm a knowledge seeker & I love to learn new technologies.
 
 - 🌱 I’m currently Working on Next.js,
-- 🌱 Expertise Redux, RTK Query, React Query, GraphQL, REST API, React Hook Form and so one
+- 🌱 Expertise Redux, RTK Query, zustand, React Query, GraphQL, REST API, React Hook Form, zod, yup and so one
 - 🌱 Familiar with MERN Stack Development. 
 - 👯 I’m looking to collaborate on developing a team to increase my development knowledge at the Open Source Project. 
 
@@ -20,4 +20,4 @@ A passionate Software Developer. I'm a knowledge seeker & I love to learn new te
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nayemulscode)  
 
-[![Nayemul's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?user=nayemulscode&langs_count=8&hide=python&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Nayemul's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=7988cdca-23ed-4740-aa01-c5933fb36b1c&langs_count=8&hide=python&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
